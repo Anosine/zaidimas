@@ -1,4 +1,4 @@
-# Žaidimas
+# Žaidimas "GLADIATOR"
 
 Sukurtas žaidimas panaudojant klases.<br/>
 Įvedami gladiatorių vardai .<br/>
